@@ -9,3 +9,6 @@ Git Hero
 <br> GitRepo
 <br> Nyari kaos 1 lusin
 
+## Setiani Mulyandari
+Aku ingin menjadi developer!
+Aku pengen dapet kaosnya dong
